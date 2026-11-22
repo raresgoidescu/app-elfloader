@@ -434,3 +434,4 @@ out:
 #endif /* CONFIG_APPELFLOADER_VFSEXEC */
 	return ret;
 }
+/* scenario D: E3 */
